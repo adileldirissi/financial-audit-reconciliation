@@ -1,0 +1,15 @@
+voucher_id,date,account_code,account_name,invoice_ref,debit,credit,description
+V-1001,2025-01-10,411000,Clients,INV-2025-001,15000.00,0.00,Facture client vente logiciel
+V-1001,2025-01-10,706000,Prestations de services,INV-2025-001,0.00,12500.00,Vente prestation dev
+V-1001,2025-01-10,445710,TVA collectee,INV-2025-001,0.00,2500.00,TVA 20% sur vente
+V-1002,2025-01-12,606300,Fournitures d'entretien,INV-2025-002,1200.00,0.00,Achat consommables
+V-1002,2025-01-12,401000,Fournisseurs,INV-2025-002,0.00,1200.00,Facture nettoyage
+V-1003,2025-01-15,512000,Banque,REG-2025-089,45000.00,0.00,Encaissement virement client
+V-1003,2025-01-15,411000,Clients,REG-2025-089,0.00,45000.00,Reglement solde facture 89
+V-1004,2025-01-18,613200,Locations immobilieres,BAIL-2025-01,8000.00,0.00,Loyer bureaux Casablanca
+V-1004,2025-01-18,512000,Banque,BAIL-2025-01,0.00,7500.00,Paiement partiel loyer (erreur balance)
+V-1005,2025-01-20,411000,Clients,INV-2025-001,15000.00,0.00,Facture client en doublon
+V-1005,2025-01-20,706000,Prestations de services,INV-2025-001,0.00,15000.00,Facture client en doublon
+V-1006,2025-01-22,999999,Compte inconnu,INV-2025-045,3400.00,3400.00,Ecriture compte non reference
+V-1007,2024-11-05,622600,Honoraires,HON-2024-11,5000.00,0.00,Charge hors exercice fiscal 2025
+V-1007,2024-11-05,401000,Fournisseurs,HON-2024-11,0.00,5000.00,Fournisseur honoraire conseil
