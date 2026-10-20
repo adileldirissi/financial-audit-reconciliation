@@ -2,7 +2,7 @@
 """
 Financial Audit Data Quality & Reconciliation Engine
 Author: Adil El Idrissi
-Target: Audit & Assurance Data Stewardship (e.g. Deloitte Extended Services)
+Domain: Audit & Assurance Data Stewardship & Financial Data Integrity
 """
 
 import csv

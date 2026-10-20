@@ -5,7 +5,7 @@ An automated data validation and reconciliation framework developed to ingest ra
 ---
 
 ## 🎯 Business Context & Alignment
-In external audit and risk assurance (e.g. Deloitte Audit & Assurance), data stewards and analysts must verify that client accounting extracts are complete, mathematically consistent, and free of anomalies before feeding downstream analytics. Manual Excel cross-referencing is error-prone and time-consuming. 
+In external audit and risk assurance (Big 4 statutory assurance standards), data stewards and analysts must verify that client accounting extracts are complete, mathematically consistent, and free of anomalies before feeding downstream analytics. Manual Excel cross-referencing is error-prone and time-consuming. 
 
 This engine automates the primary ingestion gate:
 - **Completeness & Schema Checking**: Ensures mandatory fiscal fields (Transaction ID, Date, Account Code, Debit, Credit) exist.
